@@ -1,0 +1,30 @@
+{
+  "name": "locator",
+  "version": "1.0.0",
+  "description": "Finds the country of origin of the incoming request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingdanitzamendoza/Back-end-instaYA-.git"
+  },
+  "keywords": [
+    "ip",
+    "geo",
+    "country"
+  ],
+  "author": "DanitzaMendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingdanitzamendoza/Back-end-instaYA-/issues"
+  },
+  "homepage": "https://github.com/ingdanitzamendoza/Back-end-instaYA-#readme",
+  "dependencies": {
+    "axios": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0"
+  }
+}
